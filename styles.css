@@ -36,3 +36,17 @@ input {
 img {
 	max-width: 300px;
 }
+
+/*Part 5: Stylize Buttons: */
+div button {
+	background-color: rgba(255, 255, 0, 0.624);
+	font-size: 25px;
+	color: cadetblue;
+	border-radius: 10px;
+	width: 45%;
+	border: rgb(97, 122, 59) solid;
+}
+
+div button:active {
+	background: rgb(208, 208, 28) ;
+}
